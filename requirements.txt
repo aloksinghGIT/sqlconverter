@@ -1,0 +1,9 @@
+boto3
+pandasai
+pandasai[excel]
+pandasai[plotly]
+pandasai[streamlit]
+pandasai[numpy]
+pandasai[modin]
+google.generativeai
+graphviz
